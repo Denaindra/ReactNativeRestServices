@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "restapi",
+    "slug": "restapi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "restapi"
+}
